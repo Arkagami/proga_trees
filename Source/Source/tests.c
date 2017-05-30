@@ -2,7 +2,7 @@
 #include <stdio.h> 
 #include <string.h> 
 #include <locale.h>
-
+0 0 0 45 -7 56 46
 
 int main()
 {
